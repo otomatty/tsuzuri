@@ -18,7 +18,7 @@
 		"@tsuzuri/shared": "workspace:*",
 		"@tsuzuri/sync": "workspace:*",
 		"fractional-indexing": "^4.0.0",
-		"hono": "^4.13.18",
+		"hono": "^4.13.20",
 		"react": "^19.3.1",
 		"react-dom": "^19.3.1"
 	},
